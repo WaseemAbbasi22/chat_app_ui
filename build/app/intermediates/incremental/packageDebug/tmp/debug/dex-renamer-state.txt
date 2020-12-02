@@ -1,0 +1,4 @@
+#Wed Dec 02 19:12:55 PKT 2020
+base.0=E\:\\RIPHAH\\Self study\\Flutter Development biggener\\Chat_App_UI\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
